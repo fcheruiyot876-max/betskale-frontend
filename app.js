@@ -1,4 +1,4 @@
-const API_URL = 'https://api.betskale.com'; // CHANGE TO YOUR BACKEND URL
+const API_URL = 'https://zesty-mooncake-76e1e5.netlify.app/'; // CHANGE TO YOUR BACKEND URL
 const SUPPORTED_COINS = ['usdttrc20','usdterc20','usdc','btc','eth','sol','bnb','lite','tron'];
 let slip = [];
 let token = localStorage.getItem('betskale_token');
